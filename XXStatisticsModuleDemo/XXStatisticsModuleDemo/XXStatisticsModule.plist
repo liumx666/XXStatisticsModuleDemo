@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>UIViewControllers</key>
+	<dict>
+		<key>XXFirstViewController</key>
+		<string>第一个视图</string>
+		<key>XXSecondViewController</key>
+		<string>第二个视图</string>
+		<key>XXThirdViewController</key>
+		<string>第三个视图</string>
+	</dict>
+</dict>
+</plist>
